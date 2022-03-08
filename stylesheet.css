@@ -1,0 +1,81 @@
+li {
+    list-style: none;
+
+}
+
+.header {
+    background-color: #1F4E82;
+    height: 140px;
+    color: #FFFFFF;
+
+}
+
+.header-logo {
+    font-size: 48px;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+
+.header-list li {
+    float: left;
+    padding: 30px 150px;
+}
+
+.main {
+    background-color: #FFFFFF;
+    height: 700px;
+}
+
+input {
+    width: 400px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 10px;
+    font-size: 18px;
+    border: 2px solid #D7B798;
+    border-radius: 45px;
+}
+
+/* Tambahkan CSS untuk contact-submit */
+.contact-submit {
+    background-color: #D7B798;
+    color: #000000;
+}
+
+.ucapan {
+    position: absolute;
+    width: 664px;
+    height: 168px;
+    left: 600px;
+    top: 400px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 82px;
+    text-align: center;
+
+    color: #000000;
+}
+
+
+
+.footer {
+    background: #1F4E82;
+    height: 200px;
+}
+
+.footer-list li {
+    padding: 10px 20px;
+    display: inline;
+
+}
+
+.footer-logo h1 {
+    float: right;
+    font-size: 28px;
+    padding-right: 40px;
+    padding-top: 40px;
+    color: #FFFFFF;
+}
